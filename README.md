@@ -21,6 +21,14 @@ Marshall Acton III Keep-Alive (Windows Tray Utility)
 • Контекстное меню: отображает точное системное имя найденного устройства, позволяет ставить скрипт на паузу, запускать заново и корректно завершать работу.
 • Готовность к компиляции: легко собирается в автономный .exe без окна консоли для добавления в автозагрузку Windows.
 
+<img width="198" height="83" alt="Снимок экрана 2026-11-17 142917" src="https://github.com/user-attachments/assets/cf446c5e-7e3c-4327-8a30-64c7ed0376b3" />
+<img width="233" height="87" alt="Снимок экрана 2026-11-17 142931" src="https://github.com/user-attachments/assets/a69aa147-652c-4e09-952a-673f85c0ca42" />
+<img width="266" height="124" alt="Снимок экрана 2026-11-17 142947" src="https://github.com/user-attachments/assets/e47a36b5-fb29-4a9b-abbf-a0b5c6813c36" />
+
+
+
+
+			
 Запуск и сборка в .exe через PS2exe
 
 
